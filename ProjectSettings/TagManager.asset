@@ -15,11 +15,12 @@ TagManager:
   - ChestArmor
   - Weapon
   - Chest
+  - HardFloor
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
   - 
